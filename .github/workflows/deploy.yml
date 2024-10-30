@@ -1,4 +1,4 @@
-name: fanma
+name: deploy note
 
 on:
   push:
